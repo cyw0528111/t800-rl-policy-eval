@@ -1,0 +1,16 @@
+{
+  "data": "data/bc_teacher.npz",
+  "episodes": 198,
+  "steps": 297000,
+  "train_steps": 267000,
+  "val_steps": 30000,
+  "hidden": [
+    512,
+    256
+  ],
+  "batch": 1024,
+  "epochs": 60,
+  "lr": 0.001,
+  "seed": 0,
+  "best_val_mse": 0.000545344026821355
+}
